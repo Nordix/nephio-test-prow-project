@@ -12,4 +12,5 @@ func main() {
 	fmt.Println("One plus two seems to be:", a)
 	fmt.Println("One plus two seems to be:", a)
 	fmt.Println("One plus two seems to be:", a)
+	fmt.Println("One plus two seems to be:", a)
 }
